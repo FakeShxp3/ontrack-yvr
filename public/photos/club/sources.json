@@ -1,0 +1,29 @@
+{
+  "source": "Club photographs supplied by OnTrackYVR for its website",
+  "images": [
+    {
+      "original": "IMG_8416 3.jpg",
+      "asset": "presentation.webp"
+    },
+    {
+      "original": "IMG_8432 2.jpg",
+      "asset": "classroom.webp"
+    },
+    {
+      "original": "IMG_9358.png",
+      "asset": "planning.webp"
+    },
+    {
+      "original": "IMG_9359.png",
+      "asset": "members.webp"
+    },
+    {
+      "original": "IMG_9361.png",
+      "asset": "workshop.webp"
+    },
+    {
+      "original": "IMG_9370.png",
+      "asset": "group.webp"
+    }
+  ]
+}
